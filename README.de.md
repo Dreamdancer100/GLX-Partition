@@ -21,6 +21,46 @@
 
 ---
 
+## 📖 Über GLX Partition
+
+### Erst ansehen, dann ausführen
+
+Jede Änderung wird zuerst nur vorgemerkt und in der Plattenkarte sofort angezeigt. Erst wenn du auf "Einstellungen übernehmen" klickst, führt GLX Partition sie aus. So siehst du vorher genau, was passiert.
+
+### Partitionen bearbeiten
+
+Erstellen, löschen und formatieren als NTFS, FAT32, exFAT, ReFS, FAT16, Ext2, Ext3, Ext4 oder Linux-Swap. Größe ändern, verschieben und ausrichten, ohne dass Daten verloren gehen. Eine Partition mit dem Platz der Nachbarpartition erweitern, Partitionen teilen und zusammenführen. Dateisystem und Clustergröße ändern, die Dateien bleiben erhalten. FAT32 auch über 32 GB, zum Beispiel für Autoradios, Fernseher und Kameras. Laufwerksbuchstabe, Bezeichnung, Seriennummer und Typ-ID ändern, Partitionen verstecken oder aktiv setzen, primäre Partitionen in logische Laufwerke umwandeln und zurück.
+
+### Platten umbauen und umziehen
+
+MBR nach GPT und GPT nach MBR, auch mit allen Daten. Partition oder ganze Platte kopieren und Windows auf eine neue SSD umziehen. Dynamische Datenträger anzeigen, bearbeiten und ohne Datenverlust in Basisplatten zurückwandeln. Den MBR neu aufbauen, wenn der PC nicht mehr startet.
+
+### Retten, wenn etwas schiefging
+
+GLX Partition findet gelöschte oder verlorene Partitionen und holt gelöschte Dateien zurück, auf NTFS, FAT und exFAT, also auch auf USB-Sticks und Speicherkarten.
+
+### Notfallmedium
+
+Als ISO-Datei oder direkt auf einen USB-Stick. Davon startet der PC auch ohne Windows, GLX Partition zeigt die Platten und stellt deine Sicherungen wieder her.
+
+### Backups inklusive
+
+Sichere Ordner, Partitionen oder das ganze Windows-System, auch geöffnete Dateien. Voll, inkrementell oder differentiell, verschlüsselt mit AES-256 und komprimiert. Ziel auf einer anderen Platte, im Netzwerk oder auf einem Server per SFTP, FTPS, FTP, WebDAV oder Nextcloud. Mit Zeitplan, Backup-Explorer und Wiederherstellen einzelner Dateien. Dazu Ordner abgleichen, einseitig oder beidseitig.
+
+### Werkzeuge
+
+Gesundheit der Platten (SMART), Oberflächentest, Geschwindigkeitstest, Speicherplatz-Analyse und Sektor-Ansicht. Virtuelle Platten (VHD und VHDX) erstellen, anhängen und trennen.
+
+### Sicher löschen
+
+Partitionen und ganze Platten mit Nullen, Einsen, Zufallsdaten, nach DoD 5220.22-M oder Gutmann überschreiben, damit nichts mehr zu retten ist.
+
+### Testen und Lizenz
+
+14 Tage kostenlos mit allen Funktionen. Danach bleibt alles sichtbar, nur das Ausführen von Änderungen braucht eine Lizenz.
+
+---
+
 ## 📸 Überblick & Screenshots
 
 ### 1️⃣ Hauptfenster
